@@ -1,6 +1,6 @@
 package MooseX::Types::Digest;
 {
-  $MooseX::Types::Digest::VERSION = '0.0301'; # TRIAL
+  $MooseX::Types::Digest::VERSION = '0.0301';
 }
 
 use strict;
@@ -85,7 +85,7 @@ your bug as I make changes.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 Michael Langner, all rights reserved.
+Copyright 2014 Michael Langner, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it under the
 same terms as Perl itself.
