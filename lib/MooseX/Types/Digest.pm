@@ -1,4 +1,7 @@
 package MooseX::Types::Digest;
+{
+  $MooseX::Types::Digest::VERSION = '0.0301'; # TRIAL
+}
 
 use strict;
 use warnings;
@@ -6,10 +9,6 @@ use warnings;
 =head1 NAME
 
 MooseX::Types::Digest - Digest datatypes for Moose
-
-=cut
-
-our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
