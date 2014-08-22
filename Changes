@@ -1,5 +1,8 @@
 Revision history for MooseX::Types::Digest;
 
+1.00   2014-08-22
+       - bump version to 1.00
+       
 0.04   2014-08-16
        - added SHA3 formats SHA3_224, SHA3_256, SHA3_384 and SHA3_512
        

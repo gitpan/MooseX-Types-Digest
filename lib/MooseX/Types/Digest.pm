@@ -1,5 +1,5 @@
 package MooseX::Types::Digest;
-$MooseX::Types::Digest::VERSION = '0.04';
+$MooseX::Types::Digest::VERSION = '1.00';
 use strict;
 use warnings;
 
